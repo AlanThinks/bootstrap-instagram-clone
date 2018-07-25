@@ -1,4 +1,4 @@
-# bootstrap-instagram-clone
+# Coding Memes Instagram Clone
 Created an Instagram of Coding Memes to practice Bootstrap
 
 This was back in the day when I first started learning Bootstrap.
